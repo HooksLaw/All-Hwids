@@ -1,5 +1,5 @@
-local HWID = {
+HWID = {
   "Meow",
 }
 print("Hellllllo")
-local one = 1
+one = 1
