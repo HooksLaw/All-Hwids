@@ -17,7 +17,6 @@ _G.HWID = {
   "0A1C018B-24B5-49AC-907B-C22D560E1779", -- InstantFeared
   "1ce71483-b14a-4829-8681-9ee06cec4e74",
   "B206BF2F-4E32-478A-89C0-F928EBBF2D79",
-  "F3D6B6B9-6405-49D3-8CC9-3556CDF019DE",
   "1FBFCDA2-D90B-4DAD-B722-FEC4D434331C",  -- Lethal
   "EAF12F9F-CB94-4299-86C6-EF3EC9F0FE84",  -- Watchme
   "cd8b0950-8bae-422d-a272-c0adec22aeea", -- the dude that buys from premium robux alot, says n word
