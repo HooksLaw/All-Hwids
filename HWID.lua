@@ -21,5 +21,6 @@ _G.HWID = {
   "1FBFCDA2-D90B-4DAD-B722-FEC4D434331C",  -- Lethal
   "EAF12F9F-CB94-4299-86C6-EF3EC9F0FE84",  -- Watchme
   "cd8b0950-8bae-422d-a272-c0adec22aeea", -- the dude that buys from premium robux alot, says n word
-  "C761E515-9F6E-4F7F-8331-86A637CA5573" -- Vewwy good dude, jb
+  "C761E515-9F6E-4F7F-8331-86A637CA5573", -- Vewwy good dude, jb
+  "B1D1DEB1-BF6B-4C3E-A51A-FAFF767CB76E"
 }
