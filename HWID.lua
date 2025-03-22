@@ -22,5 +22,6 @@ _G.HWID = {
   "cd8b0950-8bae-422d-a272-c0adec22aeea", -- the dude that buys from premium robux alot, says n word
   "C761E515-9F6E-4F7F-8331-86A637CA5573", -- Vewwy good dude, jb
   "B1D1DEB1-BF6B-4C3E-A51A-FAFF767CB76E", -- Instant Feared Friend
-  "BAAD146B-CBBB-4DB2-85A6-9EDA6D7333C2" -- Grandma
+  "BAAD146B-CBBB-4DB2-85A6-9EDA6D7333C2", -- Grandma
+  "54A51BDE-E79E-45A0-9957-8ACEBB705D6D" -- Krons admin guy or smth, good guy prob
 }
