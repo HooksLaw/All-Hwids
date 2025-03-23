@@ -23,6 +23,7 @@ _G.HWID = {
   "C761E515-9F6E-4F7F-8331-86A637CA5573", -- Vewwy  good dude jb maybe its edited
   -- Instant Feared Friend
   "BAAD146B-CBBB-4DB2-85A6-9EDA6D7333C2", -- Grandma
-  "54A51BDE-E79E-45A0-9957-8ACEBB705D6D" -- Krons admin guy or smth, good guy prob
-  "c2ab476a-8a67-46c8-8872-c4cd912f9888"
+  "54A51BDE-E79E-45A0-9957-8ACEBB705D6D", -- Krons admin guy or smth, good guy prob
+  "c2ab476a-8a67-46c8-8872-c4cd912f9888", -- the premium guy second
+  "B048DBC7-F61B-474C-AE9D-208A8DC4844A"
 }
