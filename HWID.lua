@@ -14,14 +14,15 @@ _G.HWID = {
   "58D038FE-0F19-4A37-89E4-C2168F74327F",
   "1CE71483-B14A-4829-8681-9EE06CEC4E74",
   "5A2C9D99-1DDE-42A3-BA41-CA1F29A4B60D",
-  "0A1C018B-24B5-49AC-907B-C22D560E1779", -- InstantFeared
+   -- InstantFeared
   "1ce71483-b14a-4829-8681-9ee06cec4e74",
   "B206BF2F-4E32-478A-89C0-F928EBBF2D79",
   "1FBFCDA2-D90B-4DAD-B722-FEC4D434331C",  -- Lethal
   "EAF12F9F-CB94-4299-86C6-EF3EC9F0FE84",  -- Watchme
   "cd8b0950-8bae-422d-a272-c0adec22aeea", -- the dude that buys from premium robux alot, says n word
-  "C761E515-9F6E-4F7F-8331-86A637CA5573", -- Vewwy good dude, jb
-  "B1D1DEB1-BF6B-4C3E-A51A-FAFF767CB76E", -- Instant Feared Friend
+  "C761E515-9F6E-4F7F-8331-86A637CA5573", -- Vewwy  good dude jb maybe its edited
+  -- Instant Feared Friend
   "BAAD146B-CBBB-4DB2-85A6-9EDA6D7333C2", -- Grandma
   "54A51BDE-E79E-45A0-9957-8ACEBB705D6D" -- Krons admin guy or smth, good guy prob
+  "c2ab476a-8a67-46c8-8872-c4cd912f9888"
 }
