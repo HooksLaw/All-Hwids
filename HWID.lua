@@ -38,8 +38,8 @@ _G.HWID = {
   -- Skip
   "B6BEA006-ADC0-4030-BC11-F3C78B53B35A",
 
-  -- Premiums Friend fr
-  "fd636cc9-5813-4f00-89a7-94a6eddbaf4f",
+  -- Premiums friend fr
+  "6f68008c-763c-429e-a28f-8195b31613a5",
 
   -- Rika Takanshi
   "418BFBF8-C3DC-4127-A6C4-2D2FE8950389"
