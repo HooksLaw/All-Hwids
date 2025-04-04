@@ -37,9 +37,10 @@ _G.HWID = {
 
   -- Skip
   "B6BEA006-ADC0-4030-BC11-F3C78B53B35A",
-
-  -- Premiums friend fr
+  
+  -- OfficialKingScammin
   "6f68008c-763c-429e-a28f-8195b31613a5",
+  "3b346c8d-b74b-436d-98a4-f1d28a435657",
 
   -- Rika Takanshi
   "418BFBF8-C3DC-4127-A6C4-2D2FE8950389"
