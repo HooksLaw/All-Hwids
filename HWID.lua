@@ -48,6 +48,7 @@ _G.HWID = {
 
   -- Rika Takanshi
   "418BFBF8-C3DC-4127-A6C4-2D2FE8950389",
+  "f6ccfeea-5d60-4efa-b085-c1d50c1746ec",
 
   -- Premium
   "5E89F364-DC3E-464E-90F7-7B2BFFE5AC4B" --Tommy
