@@ -41,6 +41,8 @@ _G.HWID = {
   
   -- OfficialKingScammin
   "b98efa84-04e1-4082-92fa-ce1a5f1b3559",
+  "af783a0d-4b59-45c2-b536-97cfdc1739c8",
+  "88801526-37fc-46ad-89a5-9c50066dc450",
 
   -- Rika Takanshi
   "418BFBF8-C3DC-4127-A6C4-2D2FE8950389",
