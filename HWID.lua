@@ -52,6 +52,5 @@ _G.HWID = {
   -- Premium
   "5E89F364-DC3E-464E-90F7-7B2BFFE5AC4B", --Tommy
   "c01a5102-ebc6-467b-9f4c-8f7f6f78cb55",
-  "6669a64f-2c5a-4c68-8316-e9dacf513f57 
-"
+  "6669a6af-2c5a-4c68-8316-e9dacf513f57"
 }
